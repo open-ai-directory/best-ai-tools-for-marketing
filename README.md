@@ -66,6 +66,7 @@
 
 *These platforms generate and test ad copy, banners, and creative variants for paid social and search campaigns.*
 
+- **[Ad Multiplier](https://admultipliers.com/)** — Makes visual variations of existing 4–30 second video ads for marketers, with optional original audio and MP4 downloads. `Paid`
 - **[AdCreative.ai](https://www.adcreative.ai)** — Generates ad creative and copy variants for paid social and search campaigns from brand assets. `Paid`
 - **[Copy.ai](https://www.copy.ai)** — AI copywriting workflows for ad copy, social captions, and marketing content generation. `Freemium`
 - **[Jacquard](https://www.jacquard.com)** — Enterprise AI platform (formerly Phrasee) that generates and optimizes on-brand marketing language across channels. `Paid (enterprise/custom pricing)`
