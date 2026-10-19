@@ -126,6 +126,7 @@
 - **[Hyros](https://hyros.com)** — AI-assisted ad tracking and multi-touch attribution built for paid traffic and ecommerce teams. `Paid (enterprise/custom pricing)`
 - **[Improvado](https://improvado.io)** — Marketing data pipeline and AI agent that unifies and analyzes data from 500+ sources. `Paid (enterprise/custom pricing)`
 - **[Northbeam](https://www.northbeam.io)** — Multi-touch attribution and marketing mix modeling platform for ecommerce ad spend. `Paid (enterprise/custom pricing)`
+- **[Pulse](https://pulsecorp.co)** — AI-moderated market research platform that runs customer interviews by voice, video, text chat, phone call and WhatsApp for marketing and product teams. `Paid`
 - **[Rockerbox](https://www.rockerbox.com)** — Marketing measurement platform for multi-touch attribution across paid, organic, and offline channels. `Paid (enterprise/custom pricing)`
 - **[Triple Whale](https://www.triplewhale.com)** — Ecommerce analytics and attribution dashboard with multi-touch tracking and marketing mix modeling. `Freemium`
 
