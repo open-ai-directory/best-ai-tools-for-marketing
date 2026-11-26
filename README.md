@@ -84,6 +84,7 @@
 - **[Klaviyo](https://www.klaviyo.com)** — Ecommerce email and SMS platform with AI-generated segments, subject lines, and content. `Freemium`
 - **[Mailmodo](https://www.mailmodo.com)** — Generates AI email campaign strategies, templates, and interactive AMP emails. `Freemium`
 - **[Omnisend](https://www.omnisend.com)** — Ecommerce email and SMS automation with an AI assistant for drafting full email campaigns. `Freemium`
+- **[Poptin](https://www.poptin.com/mcp/)** — Draft email campaigns, build audience segments, and analyze popup and form performance with a hosted MCP connector. `Freemium`
 - **[Seventh Sense](https://www.theseventhsense.com)** — Uses AI to optimize individual send times and frequency for HubSpot and Marketo email sends. `Paid`
 
 ## AI Tools for Influencer Marketing & Creator Discovery
